@@ -1,9 +1,11 @@
-# Descrição do Projeto
+# Librify
+
+## Descrição do Projeto
 
 O Librify é um aplicativo de biblioteca digital desenvolvido para dispositivos móveis com o objetivo de facilitar o acesso, gerenciamento e compartilhamento de livros. O sistema permite que usuários consultem livros, realizem reservas, publiquem obras próprias, acompanhem seu histórico de leitura e interajam com recursos administrativos.
 
 
-# Integrantes
+## Integrantes
 
 - Pedro Acácio
 - Lucca Maia Lima Verde
@@ -12,7 +14,7 @@ O Librify é um aplicativo de biblioteca digital desenvolvido para dispositivos 
 - Leonardo Sampaio Sales
 
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Kotlin
 - Android Studio
@@ -21,9 +23,9 @@ O Librify é um aplicativo de biblioteca digital desenvolvido para dispositivos 
 - UML
 - Figma (Protótipos)
 
-# Funcionalidades
+## Funcionalidades
 
-## Usuário
+### Usuário
 
 - Cadastro e Login
 - Recuperação de Senha
@@ -35,7 +37,7 @@ O Librify é um aplicativo de biblioteca digital desenvolvido para dispositivos 
 - Notificações
 - Assistente Virtual
 
-## Administrador
+### Administrador
 
 - Aprovar Livros
 - Rejeitar Livros
@@ -44,7 +46,7 @@ O Librify é um aplicativo de biblioteca digital desenvolvido para dispositivos 
 - Definir Livro do Mês
 
 
-# Como Executar
+## Como Executar
 
 1. Clonar o repositório:
    git clone LINK_DO_REPOSITORIO
@@ -56,7 +58,7 @@ O Librify é um aplicativo de biblioteca digital desenvolvido para dispositivos 
 4. Executar em um dispositivo Android ou emulador.
 
 
-# Diagramas UML
+## Diagramas UML
 
 O projeto contém:
 
