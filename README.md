@@ -22,6 +22,7 @@ O Librify é um aplicativo de biblioteca digital desenvolvido para dispositivos 
 - GitHub
 - UML
 - Figma (Protótipos)
+- excalidraw (Protótipo de baixa fidelidade)
 
 ## Funcionalidades
 
